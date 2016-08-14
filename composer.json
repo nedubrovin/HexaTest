@@ -1,0 +1,8 @@
+{
+  "require-dev": {
+    "codeception/codeception": "*",
+    "phpunit/phpunit": "*",
+    "facebook/webdriver": "*"
+  }
+}
+
