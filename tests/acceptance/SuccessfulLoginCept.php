@@ -10,7 +10,7 @@ $I->amOnUrl("http://task.hexa.com.ua/login");
 $I->seeElement(LoginPage::$signInButton);
 $I->click(LoginPage::$registrationLink);
 $I->see('Register');
-
+//
 
 ?>
 
